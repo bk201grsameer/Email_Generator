@@ -2,6 +2,14 @@
 
 The **Email Template Generator** is a simple Python program that allows users to choose from a set of predefined email templates, fill in the necessary details, and then generate a template.txt file containing the filled-out email. This tool is designed to streamline the process of composing repetitive emails while ensuring consistency and accuracy.
 
+
+## Screenshots
+
+1. **APP IMAGE**
+![App](app1.png)
+![App](app2.png)
+
+
 ## Features
 
 - Choose from a selection of predefined email templates.
@@ -14,19 +22,19 @@ The **Email Template Generator** is a simple Python program that allows users to
 1. **Clone the Repository:** Begin by cloning this repository to your local machine using the following command:
 
    ```
-   git clone https://github.com/your-username/email-template-generator.git
+   git clone https://github.com/bk201grsameer/Email_Generator.git
    ```
 
 2. **Navigate to the Directory:** Move into the project directory:
 
    ```
-   cd email-template-generator
+   cd Email_Generator
    ```
 
 3. **Run the Program:** Execute the Python script to start the Email Template Generator:
 
    ```
-   python email_template_generator.py
+   python program.py
    ```
 
 ## How to Use
