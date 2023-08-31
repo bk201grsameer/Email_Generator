@@ -85,4 +85,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Happy emailing! If you have any questions or feedback, please don't hesitate to contact us at your@email.com.
+Happy emailing! If you have any questions or feedback, please don't hesitate to contact us at sameerkarn369369@email.com.
